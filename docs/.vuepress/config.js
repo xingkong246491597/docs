@@ -1,5 +1,6 @@
 const moment = require('moment');
 module.exports = {
+    base: "/docs/",
     title: "测试配置",
     description: "测试配置标题名称meta中信息",
     //时间处理插件
