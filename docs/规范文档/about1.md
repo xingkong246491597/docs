@@ -1,5 +1,5 @@
 ---
-title: 二级文件夹内容1
+title: 规范文件1
 ---
 需要注释掉.vuepress/config.js中的home
 想要使 侧边栏（Sidebar）生效，需要配置 themeConfig.sidebar，基本的配置，需要一个包含了多个链接的数组：

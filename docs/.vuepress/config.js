@@ -2,7 +2,7 @@ const pluginsConf = require("./config/pluginsConf");
 const nav = require("./nav");
 module.exports = {
     base: "/docs/",
-    title: "测试配置",
+    title: "文档服务器",
     description: "测试配置标题名称meta中信息",
     plugins:pluginsConf,
     //时间处理插件

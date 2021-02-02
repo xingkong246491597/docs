@@ -1,6 +1,6 @@
 ---
 navbar: false
-sidebar: auto
+title: 技术文件1
 ---
 ## 文章内快速检索内容
 

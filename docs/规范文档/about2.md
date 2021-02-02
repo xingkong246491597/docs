@@ -1,6 +1,6 @@
 ---
 navbar: false
-title: 三级文件夹内容3
+title: 规范文件2
 ---
 需要注释掉.vuepress/config.js中的home
 想要使 侧边栏（Sidebar）生效，需要配置 themeConfig.sidebar，基本的配置，需要一个包含了多个链接的数组：
