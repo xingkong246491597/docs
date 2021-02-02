@@ -1,5 +1,4 @@
 ---
-navbar: false
 title: 技术文件2
 ---
 需要注释掉.vuepress/config.js中的home

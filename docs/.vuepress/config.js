@@ -31,6 +31,7 @@ module.exports = {
       lastUpdated: '更新时间', // string | boolean
       logo: '/assets/img/hero.png',
       nav: nav,
+//禁用导航
     //   navbar: false,
     //插件引入自动生成侧栏不用分别设置
       // nav: [

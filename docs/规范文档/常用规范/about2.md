@@ -1,5 +1,4 @@
 ---
-navbar: false
 title: 常用规范文件2
 ---
 需要注释掉.vuepress/config.js中的home

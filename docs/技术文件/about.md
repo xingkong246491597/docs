@@ -1,5 +1,4 @@
 ---
-navbar: false
 title: 技术文件1
 ---
 ## 文章内快速检索内容
@@ -39,15 +38,15 @@ module.exports = {
 你可以使用 themeConfig.navbar 来禁用所有页面的导航栏：
 
 // .vuepress/config.js
-module.exports = {
-  themeConfig: {
-    navbar: false
-  }
-}
+//module.exports = {
+ // themeConfig: {
+ //   navbar: false
+//  }
+//}
 你也可以通过 YAML front matter 来禁用某个指定页面的导航栏：
 
 
-navbar: false
+//navbar: false
 
 
 
