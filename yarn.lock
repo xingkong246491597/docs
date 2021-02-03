@@ -3525,6 +3525,11 @@ find-up@^4.0.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
+flexsearch@^0.6.32:
+  version "0.6.32"
+  resolved "https://registry.npm.taobao.org/flexsearch/download/flexsearch-0.6.32.tgz#1e20684d317af65baa445cdd9864a5f5b320f510"
+  integrity sha1-HiBoTTF69luqRFzdmGSl9bMg9RA=
+
 flush-write-stream@^1.0.0:
   version "1.1.1"
   resolved "https://registry.npm.taobao.org/flush-write-stream/download/flush-write-stream-1.1.1.tgz#8dd7d873a1babc207d94ead0c2e0e44276ebf2e8"
@@ -7726,6 +7731,13 @@ vuepress-plugin-container@^2.0.2:
   dependencies:
     "@vuepress/shared-utils" "^1.2.0"
     markdown-it-container "^2.0.0"
+
+vuepress-plugin-flexsearch-pro@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npm.taobao.org/vuepress-plugin-flexsearch-pro/download/vuepress-plugin-flexsearch-pro-1.0.3.tgz#aa1e7454ce5728c22c3bbae04382ebe85499eab5"
+  integrity sha1-qh50VM5XKMIsO7rgQ4Lr6FSZ6rU=
+  dependencies:
+    flexsearch "^0.6.32"
 
 vuepress-plugin-smooth-scroll@^0.0.3:
   version "0.0.3"
