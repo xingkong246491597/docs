@@ -22,6 +22,5 @@ module.exports = {
       },
       //搜索插件
       'flexsearch-pro':{
-        
       }
 }
