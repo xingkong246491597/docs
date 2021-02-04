@@ -1,1 +1,1 @@
-module.exports = [{"text":"规范文档","items":[{"text":"常用规范","link":"/规范文档/常用规范/"},{"text":"规范文档","link":"/规范文档/"}]},{"text":"技术文件","items":[{"text":"技术文件","link":"/技术文件/"}]}];
+module.exports = [{"text":"规范文档","items":[{"text":"常用规范","link":"/规范文档/常用规范/"},{"text":"规范文档","link":"/规范文档/"}]},{"text":"技术文件","items":[{"text":"md测试","link":"/技术文件/md测试/"},{"text":"技术文件","link":"/技术文件/"}]}];
