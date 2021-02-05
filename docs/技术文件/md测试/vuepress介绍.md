@@ -32,7 +32,7 @@ Nuxt (opens new window)的 nuxt generate 命令，以及其他的一些项目，
 
 VuePress 遵循 “约定优于配置” 的原则，推荐的目录结构如下：
 
-![](/media/ea938e88743823524dc296849831992f.png)
+![](/docs/media/ea938e88743823524dc296849831992f.png)
 
 -   docs/.vuepress: 用于存放全局的配置、组件、静态资源等。
 
